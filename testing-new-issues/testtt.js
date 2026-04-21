@@ -33,4 +33,5 @@ function validation(){
 	});
 };
 
+// call the function
 $(document).ready(validation());
